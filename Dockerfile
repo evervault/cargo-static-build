@@ -1,4 +1,4 @@
-FROM clux/muslrust:latest
+FROM ekidd/rust-musl-builder:stable
 
 COPY entrypoint.sh /entrypoint.sh
 

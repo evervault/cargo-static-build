@@ -1,6 +1,6 @@
 # Cargo Static Build Docker Action
 
-This action builds sttic linked binaries for rust projects, using [clux/muslrust](https://github.com/clux/muslrust).
+This action builds sttic linked binaries for rust projects, using [ekidd/rust-musl-builder](https://github.com/emk/rust-musl-builder).
 
 ## Inputs
 
