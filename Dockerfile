@@ -1,4 +1,4 @@
-FROM clux/muslrust:1.65.0-nightly-2022-09-17
+FROM clux/muslrust:1.66.0-nightly-2022-10-30
 
 COPY entrypoint.sh /entrypoint.sh
 
