@@ -1,4 +1,4 @@
-FROM clux/muslrust:1.68.2-stable
+FROM clux/muslrust:1.73.0-stable
 
 COPY entrypoint.sh /entrypoint.sh
 
